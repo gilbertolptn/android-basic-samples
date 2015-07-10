@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CicloVida!</string>
+    <string name="app_name">Cliclo de Vida de uma Activity</string>
+</resources>
